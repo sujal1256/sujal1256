@@ -2,7 +2,6 @@
 <img src="http://drive.google.com/uc?id=1Uwv_jRs2tnl_vtxALZsXsbnUWXz9DNCU" alt="profile"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal1256&label=Profile%20views&color=0e75b6&style=flat" alt="sujal1256" /> </p>
 
-- 🔭 I’m currently working on [TicketIn](https://github.com/sujal1256/TicketIn) which is a Ticketing tool.
 - ⌛ I contribute to OpenSource and build full-stack web Apps.
 - 👯 I’m interested in collaborating on exciting projects and exploring new technologies.
 - 💚 I’m always open to connecting with fellow developers and contributing to the open source community.
